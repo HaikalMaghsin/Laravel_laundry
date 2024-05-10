@@ -1,0 +1,1 @@
+<?php /**PATH E:\laravel_laundry\resources\views/customer/add.blade.php ENDPATH**/ ?>
